@@ -1,0 +1,192 @@
+Types of Networking Devices: -
+1)	Access Point: - it’s sends and received data wirelessly over radio frequencies.
+2)	Bridge: -A network bridge act as an interconnection between two LAN’s, connected a single network from separate LAN’s
+3)	Gateway: -
+ 
+
+
+Internet: - App. Are accessed by anyone from any location using the web.
+Intranet: - It allows limited access to users in the same origination.
+Extranet: -It users are allowed or provided with access to use the network app. Of the origination.
+Peer-to-peer: -The processes on each machine that communicate at a given layer.
+Networking: -one computer connected with another computer via transmission media so they can share information and resources.
+Hub: -It is a broadcasting device that send date to all the devices connected to it. It do not stores any IP addresses or MAC address.
+Switch: -It is multicasting device that send data only to the device where sender wants to send, it has a capability to stores MAC address.
+Router: -it is a networking device that allows you to connect two or more completely different network.
+ADS Active Directory Services: -It is centralized database hierarchal structure which can manage DNS and where we can create Domain users.
+DNS Domain Name System: -It performs Forward Look Up Zone and Reverse Look Up Zone.
+Forward Look Up Zone by mapping host name to IP address (Domain to IP address)
+Reverse Look Up Zone by mapping IP addresses to Host name (IP address to Domain)
+DHCP Domain Host Configuration Protocol: -It is process of assigning IP addresses automatically from DHCP server to clint by following DORA Process.
+Discover Offer Request Acknowledgment.
+Port numbers 
+DHCP Server -67
+DHCP Clint -68
+Telnet – 23
+FTP – 21
+HTTP -80
+HTTPS-443
+
+Network: A network is a collection of computers and devices that are connected together to enable communication and data exchange.
+Nodes: Nodes are devices that are connected to a network. These can include computers, Servers, Printers, Routers, Switches, and other devices.
+Protocol: A protocol is a set of rules and standards that govern how data is transmitted over a network. Examples of protocols include TCP/IP, HTTP, and FTP.
+Topology: Network topology refers to the physical and logical arrangement of nodes on a network. The common network topologies include bus, star, ring, mesh, and tree.
+Service Provider Networks: These types of Networks give permission to take Network Capacity and Functionality on lease from the Provider. Service Provider Networks include Wireless Communications, Data Carriers, etc.
+IP Address: An IP address is a unique numerical identifier that is assigned to every device on a network. IP addresses are used to identify devices and enable communication between them.
+DNS: The Domain Name System (DNS) is a protocol that is used to translate human-readable domain names (such as www.google.com) into IP addresses that computers can understand.
+Firewall: A firewall is a security device that is used to monitor and control incoming and outgoing network traffic. Firewalls are used to protect networks from unauthorized access and other security threats.
+
+•	Networking Hardware:
+Router: -it is a networking device that allows you to connect two or more completely different network.
+Switch: -It is multicasting device that send data only to the device where sender wants to send, it has a capability to stores MAC address. 
+LAN Card: -A LAN card connects a computer to a network. LAN cards are typically built into your computer. You can connect to the network via an Ethernet cable, usb, or wirelessly. 
+Wireless routers: - A wireless router is a device that connects to the Internet or a private network and provides wireless and sometimes wired access to other devices.
+Cables: -
+•	Networking Software:
+o	Network operations and management
+o	Operating systems
+•	Firewall: A firewall is a security device that is used to monitor and control incoming and outgoing network traffic. Firewalls are used to protect networks from unauthorized access and other security threats.
+o	Network security applications
+•	Network Services:
+o	T-1 Line
+o	DSL
+o	Satellite
+o	Wireless protocols
+o	IP addressing
+
+Symptoms: unable to connect VPN ( Subject for incident)
+Diagnosis: User is not able to connect to VPN as it was getting stuck at host checker (It means reason)
+Cause: Host checker issue (Why the issue)
+Resolutions: Forget previous saved setting from Pulse secure client 
+uninstall host checker from programs and features
+Restart the system and check and user is able to connect VPN
+(What was the steps we have followed to resolved the issue)
+User Impacted: 1 (How many impact)
+User confirmation: Yes (we need to get conformation)
+KBase: KB0083337 (Knowladge base)
+Internet connection type: Broadband (user using broadband, mobile host., etc.,)
+Internet speed: 30MBPS
+
+
+Status:
+Open: once the ticket has been raised
+Pending: based on the issue we will keep it has pending.
+Waiting for customer: If the employee was not available will use this option.
+Resolved: once the issue resolved we will use this option
+Closed: once the issue resolved then after few days it will move to closed state.
+Auto email sent: once the issue resolved it could me triggered a mail to the user.
+Optimization Request: not sure
+State:
+New:
+Response Due:
+Requester Responded:
+Overdue:
+Groups: Assigned to
+Quest Help Desk Team
+Naveen kumar us
+Deep penchal 
+Nemanja stanisic
+Satyam Gajjar
+Victor Campos
+EMR Team
+Help Desk support team
+Portal Support Team
+PowerBI support
+Priority:
+Low
+Mediam
+High 
+Urgent
+Requester
+Subject
+
+Source
+Phone
+Email
+MS Teams
+Zoom call
+Salesforce
+Chat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First meeting updates
+-> Firewall over installing
+-> inventing all devises need to take care.
+-> In future will give AWS tasks
+-> Change the broadband plans.
+
+Thanks & Regards,
+Naveen Kumar US - RCM
+System Administrator
+M: +91 8099998304
+Email: nkumarus@vohraphysicians.com
+Web : www.vohraphysicians.com
+ 
+Symptoms: unable to connect VPN ( Subject for incident)
+Diagnosis: User is not able to connect to VPN as it was getting stuck at host checker (It means reason)
+Cause: Host checker issue (Why the issue)
+Resolutions: Forget previous saved setting from Pulse secure client 
+uninstall host checker from programs and features
+Restart the system and check and user is able to connect VPN
+(What was the steps we have followed to resolved the issue)
+User Impacted: 1 (How many impact)
+User confirmation: Yes (we need to get conformation)
+KBase: KB0083337 (Knowladge base)
+Internet connection type: Broadband (user using broadband, mobile host., etc.,)
+Internet speed: 30MBPS
+
+
+Status:
+Open: once the ticket has been raised
+Pending: based on the issue we will keep it has pending.
+Waiting for customer: If the employee was not available will use this option.
+Resolved: once the issue resolved we will use this option
+Closed: once the issue resolved then after few days it will move to closed state.
+Auto email sent: once the issue resolved it could me triggered a mail to the user.
+Optimization Request: not sure
+State:
+New:
+Response Due:
+Requester Responded:
+Overdue:
+Groups: Assigned to
+Quest Help Desk Team
+Naveen kumar us
+Deep penchal 
+Nemanja stanisic
+Satyam Gajjar
+Victor Campos
+EMR Team
+Help Desk support team
+Portal Support Team
+PowerBI support
+Priority:
+Low
+Mediam
+High 
+Urgent
+Requester
+Subject
+
+Source
+Phone
+Email
+MS Teams
+Zoom call
+Salesforce
+Chat

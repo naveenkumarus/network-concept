@@ -1,0 +1,17 @@
+netstat -ano
+
+How to Use the Netstat Command:
+The netstat command, meaning network statistics, 
+is a Command Prompt command used to display very detailed information about how your computer is communicating with other computers or network devices.
+
+Specifically, it can show details about individual network connections, overall and protocol-specific networking statistics, and much more, 
+all of which could help troubleshoot certain kinds of networking issues.
+
+Netstat Command Availability
+This command is available from within the Command Prompt in Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows Server operating systems, and some older versions of Windows, too.
+
+Since netstat is a cross-platform command, it's also available in other operating systems like macOS and Linux.
+
+NOTE: The availability of certain netstat command switches and other netstat command syntax may differ from operating system to operating system.
+
+https://www.lifewire.com/netstat-command-2618098#:~:text=Property%20Value%20%20Option%20%20%20%20Explanation,this%20switch%20with%20the%20netstat%20command%20...%20
